@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ohce", "ohce.csproj", "{0453F5BA-24F0-49E9-B136-3F95F4C20B6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0453F5BA-24F0-49E9-B136-3F95F4C20B6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0453F5BA-24F0-49E9-B136-3F95F4C20B6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0453F5BA-24F0-49E9-B136-3F95F4C20B6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0453F5BA-24F0-49E9-B136-3F95F4C20B6F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C99B339-D22A-4CAB-8E90-B3BA02E283F2}
+	EndGlobalSection
+EndGlobal
